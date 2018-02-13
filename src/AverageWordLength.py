@@ -1,3 +1,6 @@
+'''
+Returns the averge word length of a given a .txt file
+'''
 import json
 import string
 import requests
@@ -5,6 +8,7 @@ import nltk
 nltk.download('punkt')
 from nltk import RegexpTokenizer
 import sys
+
 
 def getAvgLength():
     try:
