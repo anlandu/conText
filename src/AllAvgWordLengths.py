@@ -1,3 +1,8 @@
+
+'''
+IN PROGRESS
+Creates a table of the average word length of the top 100 books on Project Gutenberg
+'''
 import os
 import AverageWordLength
 

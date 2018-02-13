@@ -1,3 +1,6 @@
+'''
+Downloads the given URL as txt file
+'''
 import json
 import string
 import requests

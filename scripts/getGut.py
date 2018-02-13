@@ -1,3 +1,6 @@
+'''
+Downloads the top 100 books on Project Gutenberg as text files
+'''
 import requests
 from bs4 import BeautifulSoup
 import re
