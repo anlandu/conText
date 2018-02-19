@@ -6,8 +6,9 @@ Creates a table of the average word length of the top 100 books on Project Guten
 import os
 import AverageWordLength
 
-avgLengths=[]
+avgLengths={}
 for book in os.listdir('../resources'):
-    print(book)
-        avgLengths.append(AverageWordLength.getAvgLength(book[:-4]))
+    if book != "userInputtedText":
+        print(book)
+        avgLengths.update(AverageWordLength.getAvgLength(book))
 print(avgLengths)

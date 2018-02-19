@@ -21,10 +21,17 @@ def getAvgLength():
 
 def getAvgLength(filename):
         try:
-            with open("../resources/{}.txt".format(filename), 'r', encoding='utf-8', errors="ignore") as f:
+            with open("../resources/{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:
                 book_text=f.read()
-                start=book_text.index(" ***")
-                end=book_text.index("*** END OF THIS PROJECT GUTENBERG EBOOK")
+                if book_text=="No text found":
+                    return {book_title: 999}
+                book_title=book_text[:book_text.index("~~~")]
+                start=book_text.index("***\n")
+                print("made it this far")
+                try:
+                    end=book_text.index("*** END OF ")
+                except:
+                    end=book_text.index("***END OF ")
                 book_text=book_text[start+4:end]
                 punctuation=string.punctuation+")’(,�--|"
                 words=nltk.word_tokenize(book_text)
@@ -36,8 +43,8 @@ def getAvgLength(filename):
                     else:
                         num_words+=1.0
                         num_chars+=len(word)
-                return (num_chars/num_words)
+                return {book_title:num_chars/num_words}
         except:
             print()
-            print("File {} not found!".format(filename))
+            print("Error parsing file {}!".format(filename))
             # sys.exit()

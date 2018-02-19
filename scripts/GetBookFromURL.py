@@ -18,7 +18,7 @@ if input[-4:]!=".txt":
     sys.exit()
 try:
     res=requests.get(sys.argv[1])
-    with open("../resources/userInputtedBook.txt", 'w+', encoding='utf-8', errors="ignore") as f:
+    with open("../resources/userInputtedText.txt", 'w+', encoding='utf-8', errors="ignore") as f:
         f.write(res.text)
 except:
     print("Invalid URL")
