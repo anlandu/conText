@@ -1,5 +1,5 @@
 '''
-Returns the averge word length of a given a .txt file
+Returns the averge word length of a given .txt file
 '''
 import json
 import string
@@ -38,7 +38,6 @@ def getAvgLength(filename):
                         num_chars+=len(word)
                 return (num_chars/num_words)
         except:
-            print(filename)
-            print("File not found! getAvgLength(filename) should only be called by CorpusWordLength.py. If you called getAvgLength() with a parameter,"+
-            "please first download your desired text using GetBookFromURL, then call getAvgLength() without a parameter!")
+            print()
+            print("File {} not found!".format(filename))
             # sys.exit()
