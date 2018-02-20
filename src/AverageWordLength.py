@@ -9,29 +9,52 @@ nltk.download('punkt')
 from nltk import RegexpTokenizer
 import sys
 
-
-def getAvgLength():
+def getClosestLength(input):
     try:
-        getAvgLength("userInputtedBook")
+        input.index("www.gutenberg.org/files")
     except:
-        print("No book selected. Please run scripts/GetBookFromURL.py with a valid"+
-        "Project Gutenberg txt URL before running this script.")
+        print("Invalid URL")
         sys.exit()
+    if input[-4:]!=".txt":
+        print("Invalid URL")
+        sys.exit()
+    try:
+        res=requests.get(sys.argv[1])
+        with open("../userBook.txt", 'w+', encoding='utf-8', errors="ignore") as f:
+            f.write(res.text)
+    except:
+        print("Invalid URL")
+        sys.exit()
+    user_book_word_len=getAvgLength("userBook.txt").get("userBook.txt")
+    closest_diff=9999
+    for 
 
+def getAllLengths():
+    allLengths={}
+    for book in os.listdir('../resources'):
+        print(book)
+        allLengths.update("resources/{}".format(AverageWordLength.getAvgLength(book)))
+    print(allLengths)
 
 def getAvgLength(filename):
         try:
-            with open("../resources/{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:
+            with open("../{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:
                 book_text=f.read()
                 if book_text=="No text found":
-                    return {book_title: 999}
+                    return {book_title:999}
                 book_title=book_text[:book_text.index("~~~")]
-                start=book_text.index("***\n")
+                try:
+                    start=book_text.index("***\n")
+                except:
+                    start=0
                 print("made it this far")
                 try:
                     end=book_text.index("*** END OF ")
                 except:
-                    end=book_text.index("***END OF ")
+                    try:
+                        end=book_text.index("***END OF ")
+                    except:
+                        end=len(book_text)
                 book_text=book_text[start+4:end]
                 punctuation=string.punctuation+")’(,�--|"
                 words=nltk.word_tokenize(book_text)
@@ -43,6 +66,7 @@ def getAvgLength(filename):
                     else:
                         num_words+=1.0
                         num_chars+=len(word)
+                print({book_title:num_chars/num_words})
                 return {book_title:num_chars/num_words}
         except:
             print()

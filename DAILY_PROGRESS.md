@@ -42,5 +42,9 @@ Completed AverageWordLength.py. Think I might rework so that there's a paramater
 ### 2.9
 In the interest of preparing for next week, added CONTRIBUTING and CONDUCT. Plan to use the weekend to add documentation and finish up my POS tagging.
 
+### 2.10-2.17
+
+Partner work days!
+
 ### 2.19
 Reworked the filenaming system, as special characters kept raising issues as I parsed the top 100 books. Still ironing out wrinkles in some files, almost have a complete and accurate dictionary of word lengths--should accomplish this tonight. Hopefully we can reuse lots of this code for top words.
