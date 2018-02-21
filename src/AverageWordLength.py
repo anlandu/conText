@@ -8,33 +8,63 @@ import nltk
 nltk.download('punkt')
 from nltk import RegexpTokenizer
 import sys
+import os
+import csv
 
 def getClosestLength(input):
     try:
-        input.index("www.gutenberg.org/files")
+        input.index("www.gutenberg.org/")
     except:
-        print("Invalid URL")
+        print("Invalid URL: not a Gutenberg URL")
         sys.exit()
     if input[-4:]!=".txt":
-        print("Invalid URL")
+        print("Invalid URL: does not end in txt")
         sys.exit()
     try:
-        res=requests.get(sys.argv[1])
+        print(input)
+        res=requests.get(input)
         with open("../userBook.txt", 'w+', encoding='utf-8', errors="ignore") as f:
-            f.write(res.text)
+            f.write("User Chosen Text~~~"+res.text)
     except:
         print("Invalid URL")
         sys.exit()
-    user_book_word_len=getAvgLength("userBook.txt").get("userBook.txt")
-    closest_diff=9999
-    for 
+    user_book_word_len=getAvgLength("userBook.txt").get("User Chosen Text")
+    closest_diff=9999.0
+    closest_book="None"
+    all_book_lengths=getAllLengths()
+    # print(all_book_lengths)
+    for title, avg_len in all_book_lengths.items():
+        curr_diff=abs(user_book_word_len-float(avg_len))
+        if curr_diff < closest_diff:
+            closest_book=title
+            closest_diff=curr_diff
+    return closest_book
 
 def getAllLengths():
-    allLengths={}
-    for book in os.listdir('../resources'):
-        print(book)
-        allLengths.update("resources/{}".format(AverageWordLength.getAvgLength(book)))
-    print(allLengths)
+    print("madeit")
+    if os.path.exists("../book_word_lens.csv"):
+        print("CSV exists")
+        with open('../book_word_lens.csv', 'r', newline="\n", encoding="utf-8", errors="ignore") as csv_file:
+            reader = csv.reader(csv_file)
+            all_lengths=dict(reader)
+        return all_lengths
+
+    else:
+        print("CSV does not exist")
+        all_lengths={}
+        for book in os.listdir('../resources'):
+            print(book)
+            all_lengths.update(getAvgLength("resources/{}".format(book)))
+        print("completed calculating word lengths successfully")
+        with open('../book_word_lens.csv', 'w+', encoding="utf-8", errors="ignore") as csv_file:
+            print("opened csv successfully")
+            writer = csv.writer(csv_file)
+            print(all_lengths)
+            for key, value in allLengths.items():
+                print(key)
+                writer.writerow([key, value])
+        return all_lengths
+
 
 def getAvgLength(filename):
         try:
@@ -47,7 +77,6 @@ def getAvgLength(filename):
                     start=book_text.index("***\n")
                 except:
                     start=0
-                print("made it this far")
                 try:
                     end=book_text.index("*** END OF ")
                 except:
