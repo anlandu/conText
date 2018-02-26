@@ -1,5 +1,7 @@
 '''
-Returns the averge word length of a given .txt file
+Methods to generate average word length of a file, create file containing
+average word lengths of all files in a directory, and given a Project Gutenberg
+URL, return the text with the closest average word length
 '''
 import json
 import string
@@ -38,10 +40,9 @@ def getClosestLength(input):
         if curr_diff < closest_diff:
             closest_book=title
             closest_diff=curr_diff
-    return closest_book
+    return "Book with closest average word length: " + closest_book
 
 def getAllLengths():
-    print("madeit")
     if os.path.exists("../book_word_lens.csv"):
         print("CSV exists")
         with open('../book_word_lens.csv', 'r', newline="\n", encoding="utf-8", errors="ignore") as csv_file:
@@ -57,11 +58,8 @@ def getAllLengths():
             all_lengths.update(getAvgLength("resources/{}".format(book)))
         print("completed calculating word lengths successfully")
         with open('../book_word_lens.csv', 'w+', encoding="utf-8", errors="ignore") as csv_file:
-            print("opened csv successfully")
             writer = csv.writer(csv_file)
-            print(all_lengths)
-            for key, value in allLengths.items():
-                print(key)
+            for key, value in all_lengths.items():
                 writer.writerow([key, value])
         return all_lengths
 

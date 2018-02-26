@@ -47,4 +47,7 @@ In the interest of preparing for next week, added CONTRIBUTING and CONDUCT. Plan
 Partner work days!
 
 ### 2.19
-Reworked the filenaming system, as special characters kept raising issues as I parsed the top 100 books. Still ironing out wrinkles in some files, almost have a complete and accurate dictionary of word lengths--should accomplish this tonight. Hopefully we can reuse lots of this code for top words.
+Reworked the filenaming system, as special characters kept raising issues as I parsed the top 100 books. Still ironing out wrinkles in some files, almost have a complete and accurate dictionary of word lengths--should accomplish this tonight. Hopefully we can reuse lots of this code for top sentences.
+
+### 2.20-21
+Got AverageWordLength and AverageSentLength working; both now return the book with the closest lengths to the given Project Gutenberg txt URL. Will likely work on POS tagging now, along with contributing more to my partner's project, and expanding to other text files (not just Gutenberg URLs).
