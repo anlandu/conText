@@ -1,6 +1,6 @@
-'''
-Returns the averge word length of a given .txt file
-'''
+
+# Returns the averge word length of a given .txt file
+
 import json
 import string
 import requests
@@ -40,6 +40,7 @@ def getClosestLength(input):
             closest_diff=curr_diff
     return closest_book
 
+# Returns an array of the lengths of all the words in a book. Takes in a csv of the text of a book.
 def getAllLengths():
     print("madeit")
     if os.path.exists("../book_word_lens.csv"):
@@ -65,7 +66,7 @@ def getAllLengths():
                 writer.writerow([key, value])
         return all_lengths
 
-
+# Takes in a file and gets the average length of the words in the book.
 def getAvgLength(filename):
         try:
             with open("../{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:
