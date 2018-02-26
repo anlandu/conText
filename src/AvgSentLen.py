@@ -2,7 +2,6 @@
 Methods to generate average sentence length of a file, create file containing
 average sent lengths of all files in a directory, and given a Project Gutenberg
 URL, return the text with the closest average sentence length'''
-import json
 import string
 import requests
 import nltk

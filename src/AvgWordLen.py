@@ -3,7 +3,6 @@ Methods to generate average word length of a file, create file containing
 average word lengths of all files in a directory, and given a Project Gutenberg
 URL, return the text with the closest average word length
 '''
-import json
 import string
 import requests
 import nltk
