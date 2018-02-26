@@ -40,7 +40,7 @@ def getClosestLength(input):
             closest_diff=curr_diff
     return closest_book
 
-# Returns an array of the lengths of all the words in a book. Taks in a csv of the text of a book.
+# Returns an array of the lengths of all the words in a book. Takes in a csv of the text of a book.
 def getAllLengths():
     print("madeit")
     if os.path.exists("../book_word_lens.csv"):
