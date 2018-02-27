@@ -12,6 +12,11 @@ import sys
 import os
 import csv
 
+
+'''
+Given a Project Gutenberg URL, get the book (out of top 100 on Project Gutenberg)
+with the closest average word length
+'''
 def getClosestLength(input):
     try:
         input.index("www.gutenberg.org/")
@@ -41,7 +46,10 @@ def getClosestLength(input):
             closest_diff=curr_diff
     return "Book with closest average word length: " + closest_book
 
-# Returns an array of the lengths of all the words in a book. Takes in a csv of the text of a book.
+'''
+Read or, if non-existent, create a CSV of the average word lengths of all of the
+top 100 books
+'''
 def getAllLengths():
     if os.path.exists("../book_word_lens.csv"):
         print("CSV exists")
@@ -63,7 +71,9 @@ def getAllLengths():
                 writer.writerow([key, value])
         return all_lengths
 
-# Takes in a file and gets the average length of the words in the book.
+'''
+Find the average word length of an already-downloaded txt file"
+'''
 def getAvgLength(filename):
         try:
             with open("../{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:

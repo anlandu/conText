@@ -11,6 +11,10 @@ import sys
 import os
 import csv
 
+'''
+Given a Project Gutenberg URL, get the book (out of top 100 on Project Gutenberg)
+with the closest average sentence length
+'''
 def getClosestLength(input):
     try:
         input.index("www.gutenberg.org/")
@@ -39,6 +43,10 @@ def getClosestLength(input):
             closest_diff=curr_diff
     return "Book with closest average sentence length: " + closest_book
 
+'''
+Read or, if non-existent, create a CSV of the average sentence lengths of all of the
+top 100 books
+'''
 def getAllLengths():
     if os.path.exists("../book_sent_lens.csv"):
         print("CSV exists")
@@ -60,7 +68,9 @@ def getAllLengths():
                 writer.writerow([key, value])
         return all_lengths
 
-
+'''
+Find the average sentence length of an already-downloaded txt file"
+'''
 def getAvgLength(filename):
         try:
             with open("../{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:

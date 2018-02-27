@@ -9,28 +9,28 @@ import csv
 from collections import Counter
 
 '''
-INCOMPLETE
+Write to CSV the parts of speech for each book
 '''
 def getAllPOS():
-    if os.path.exists("../book_sent_lens.csv"):
+    if os.path.exists("../book_POS.csv"):
         print("CSV exists")
         with open('../book_POS.csv', 'r', newline="\n", encoding="utf-8", errors="ignore") as csv_file:
             reader = csv.reader(csv_file)
-            all_lengths=dict(reader)
-        return all_lengths
+            all_books_POS=dict(reader)
+        return all_books_POS
 
     else:
         print("CSV does not exist")
-        all_lengths={}
-        for book in os.listdir('../resources'):
+        all_books_POS={{}}
+        for book in os.listdir('../testDir'):
             print(book)
-            all_lengths.update(getAvgLength("resources/{}".format(book)))
+            all_books_POS.update(getPOS("testDir/{}".format(book)))
         print("completed calculating sentence lengths successfully")
         with open('../book_POS.csv', 'w+', encoding="utf-8", errors="ignore") as csv_file:
             writer = csv.writer(csv_file)
-            for key, value in all_lengths.items():
+            for key, value in all_books_POS.items():
                 writer.writerow([key, value])
-        return all_lengths
+        return all_books_POS
 
 '''
 Returns list of most frequent POS, along with each one's number of occurrences
@@ -53,6 +53,8 @@ def getPOS(filename):
                         end=book_text.index("***END OF ")
                     except:
                         end=len(book_text)
+                sents=nltk.sent_tokenize(book_text)
+                num_sents=len(sents)
                 book_text=book_text[start+4:end]
                 punctuation=string.punctuation+")’(,�--|"
                 words=nltk.word_tokenize(book_text)
