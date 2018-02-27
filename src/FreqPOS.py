@@ -1,36 +1,34 @@
 import nltk
 import string
 import requests
-nltk.download('punkt')
+# nltk.download('punkt')
 from nltk import RegexpTokenizer
 import sys
 import os
 import csv
 from collections import Counter
+import csv
+import itertools
+import sys
 
 '''
-Write to CSV the parts of speech for each book
+Write to CSV the Counter of parts of speech for each book
 '''
-def getAllPOS():
-    if os.path.exists("../book_POS.csv"):
-        print("CSV exists")
-        with open('../book_POS.csv', 'r', newline="\n", encoding="utf-8", errors="ignore") as csv_file:
-            reader = csv.reader(csv_file)
-            all_books_POS=dict(reader)
-        return all_books_POS
-
-    else:
-        print("CSV does not exist")
-        all_books_POS={{}}
-        for book in os.listdir('../testDir'):
-            print(book)
-            all_books_POS.update(getPOS("testDir/{}".format(book)))
+def createCSVallPOS():
+    all_books_POS={}
+    for book in os.listdir('../resources'):
+        print(book)
+        all_books_POS.update(getPOS("resources/{}".format(book)))
         print("completed calculating sentence lengths successfully")
+        fields=['book', 'NN', 'IN', 'PRP', 'DT', 'NNP', 'RB', 'VBD', 'JJ', 'VB', 'CC']
         with open('../book_POS.csv', 'w+', encoding="utf-8", errors="ignore") as csv_file:
-            writer = csv.writer(csv_file)
-            for key, value in all_books_POS.items():
-                writer.writerow([key, value])
-        return all_books_POS
+            w=csv.writer(csv_file)
+            wdict=csv.DictWriter(csv_file,fields,extrasaction='ignore')
+            w.writerow(fields)
+            for key,val in sorted(all_books_POS.items()):
+                row={'book':key}
+                row.update(val)
+                wdict.writerow(row)
 
 '''
 Returns list of most frequent POS, along with each one's number of occurrences
@@ -63,7 +61,7 @@ def getPOS(filename):
                 pos_nums=Counter(diff_pos)
                 # pos_freqs=nltk.pos_freq(words)
                 print(pos_nums)
-                return pos_nums
+                return {book_title:pos_nums}
         except:
             print()
             print("Error parsing file {}!".format(filename))
