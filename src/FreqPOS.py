@@ -1,15 +1,38 @@
 import nltk
 import string
 import requests
-# nltk.download('punkt')
+nltk.download('punkt')
 from nltk import RegexpTokenizer
 import sys
 import os
 import csv
 from collections import Counter
-import csv
 import itertools
 import sys
+
+'''
+From CSV, generates nested dictionary of all parts of speech for all books
+'''
+def getAllPOS():
+    if os.path.exists("../book_sent_lens.csv"):
+        print("CSV exists")
+        with open('../book_POS.csv', 'r', newline="\n", encoding="utf-8", errors="ignore") as csv_file:
+            reader = csv.reader(csv_file)
+            all_lengths=dict(reader)
+        return all_lengths
+
+    else:
+        print("CSV does not exist")
+        all_lengths={}
+        for book in os.listdir('../resources'):
+            print(book)
+            all_lengths.update(getAvgLength("resources/{}".format(book)))
+        print("completed calculating sentence lengths successfully")
+        with open('../book_POS.csv', 'w+', encoding="utf-8", errors="ignore") as csv_file:
+            writer = csv.writer(csv_file)
+            for key, value in all_lengths.items():
+                writer.writerow([key, value])
+        return all_lengths
 
 '''
 Write to CSV the Counter of parts of speech for each book
@@ -32,6 +55,7 @@ def createCSVallPOS():
 
 '''
 Returns list of most frequent POS, along with each one's number of occurrences
+
 '''
 def getPOS(filename):
         try:
@@ -66,3 +90,9 @@ def getPOS(filename):
             print()
             print("Error parsing file {}!".format(filename))
             # sys.exit()
+
+'''
+From Nalu: Trying to come up with an algorithm with which to categorize and compare POS of different words. Failed. But here's a method delcaration?
+'''
+def comparePos(filename):
+
