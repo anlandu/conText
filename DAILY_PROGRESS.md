@@ -51,3 +51,6 @@ Reworked the filenaming system, as special characters kept raising issues as I p
 
 ### 2.20-21
 Got AverageWordLength and AverageSentLength working; both now return the book with the closest lengths to the given Project Gutenberg txt URL. Will likely work on POS tagging now, along with contributing more to my partner's project, and expanding to other text files (not just Gutenberg URLs).
+
+### 2.24-2.27
+FreqPOS is now up and running! It creates a CSV containing each book's parts of speech and their quantities.

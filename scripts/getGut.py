@@ -7,6 +7,11 @@ import re
 r=requests.get("https://www.gutenberg.org/browse/scores/top#books-last30")
 soup=BeautifulSoup(r.text, "html5lib")
 top_100=[]
+
+'''
+Parses the top books from last 30 days; for each, finds the text
+file in the given book's directory and downloads it
+'''
 for n in range(100):
     book_tag=soup.find_all('ol')[4].find_all('li')[n].find('a')
     top_100.append([book_tag.text, book_tag['href']])
@@ -19,5 +24,6 @@ for n in range(100):
         book_txt=requests.get("http:{}".format(txt_url))
         with open("../resources/{}.txt".format(n), 'w+', encoding='utf-8') as f:
             f.write(book_title+"~~~"+book_txt.text)
+    # if .txt link is not found, just pass
     except:
         pass
