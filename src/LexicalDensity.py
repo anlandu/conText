@@ -43,7 +43,7 @@ def getClosestDens(input):
         if curr_diff < closest_diff:
             closest_book=title
             closest_diff=curr_diff
-    return "Book with closest average sentence length: " + closest_book
+    return "Book with closest average lexical density: " + closest_book
 
 '''
 Read or, if non-existent, create a CSV of the average sentence lengths of all of the
@@ -94,16 +94,16 @@ def getAvgDens(filename):
             book_text=book_text[start+4:end]
             punctuation=string.punctuation+")’(,�--|~"
             words=nltk.word_tokenize(book_text)
-            num_function_words=0.0
-            num_stopwords=0.0
+            num_function_words=0
+            num_stopwords=0
             stopset=set(stopwords.words('english'))
             for word in words:
                 if word in punctuation:
                     pass
                 elif word in stopset:
-                    num_stopwords+=1.0
+                    num_stopwords+=1
                 else:
-                    num_function_words+=1.0
+                    num_function_words+=1
             total_words=num_function_words+num_stopwords
             print({book_title:num_function_words/total_words})
             return {book_title:num_function_words/total_words}
