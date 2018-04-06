@@ -12,7 +12,7 @@ as text files.
 Run  `scripts/GetBookFromURL.py` to get the text file of a specific book from Project Gutenberg.
 Takes string as command-line argument: the URL of the root directory of the book. e.g. http://www.gutenberg.org/ebooks/4300
 
-Import `src.AvgWordLen`, `src.AvgSentLen`, or `src.FreqPOS` to use their methods. AvgWordLen enables you to get the average word length of a given file, or all files in the resources folder, or compare all stored word lengths to an inputted one. AvgSentLen does the same for sentence lengths. FreqPOS counts the number of times each part of speech is used in a text.
+Import `src.AvgWordLen`, `src.AvgSentLen`, or `src.FreqPOS` to use their methods. AvgWordLen enables you to get the average word length of a given file, analyze all files in the resources folder, and/or compare all stored word lengths to an inputted one. AvgSentLen does the same for sentence lengths. FreqPOS counts the number of times each part of speech is used in a text.
 
 (Note that these three files assume the top 100 books are already downloaded using `GetGut.py`; alternatively, you can simply download your own texts of choice into the resources folder.)
 
