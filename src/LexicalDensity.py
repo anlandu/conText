@@ -12,6 +12,7 @@ from nltk.corpus import stopwords
 import sys
 import os
 import csv
+from collections import OrderedDict
 
 '''
 Given a Project Gutenberg URL, get the book (out of top 100 on Project Gutenberg)
@@ -35,15 +36,13 @@ def getClosestDens(input):
         print("Invalid URL")
         sys.exit()
     user_book_lex_dens=getAvgDens("userBook.txt").get("User Chosen Text")
-    closest_diff=9999.0
-    closest_book="None"
+    diffs={}
     all_book_dens=getAllDens()
-    for title, avg_lex_dens in all_book_dens.items():
-        curr_diff=abs(user_book_lex_dens-float(avg_lex_dens))
-        if curr_diff < closest_diff:
-            closest_book=title
-            closest_diff=curr_diff
-    return "Book with closest average lexical density: " + closest_book
+    for title, avg_dens in all_book_dens.items():
+        diff=abs(user_book_lex_dens-float(avg_dens))
+        diffs.update({title:diff})
+    sorted_diffs=OrderedDict(sorted(diffs.items(), key=lambda t: t[1]))
+    return "Books with closest lexical density: " + str(sorted_diffs)
 
 '''
 Read or, if non-existent, create a CSV of the average sentence lengths of all of the

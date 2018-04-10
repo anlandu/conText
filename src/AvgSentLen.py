@@ -10,7 +10,7 @@ from nltk import RegexpTokenizer
 import sys
 import os
 import csv
-
+from collections import OrderedDict
 '''
 Given a Project Gutenberg URL, get the book (out of top 100 on Project Gutenberg)
 with the closest average sentence length
@@ -33,15 +33,13 @@ def getClosestLength(input):
         print("Invalid URL")
         sys.exit()
     user_book_sent_len=getAvgLength("userBook.txt").get("User Chosen Text")
-    closest_diff=9999.0
-    closest_book="None"
+    diffs={}
     all_book_lengths=getAllLengths()
     for title, avg_len in all_book_lengths.items():
-        curr_diff=abs(user_book_sent_len-float(avg_len))
-        if curr_diff < closest_diff:
-            closest_book=title
-            closest_diff=curr_diff
-    return "Book with closest average sentence length: " + closest_book
+        diff=abs(user_book_sent_len-float(avg_len))
+        diffs.update({title:diff})
+    sorted_diffs=OrderedDict(sorted(diffs.items(), key=lambda t: t[1]))
+    return "Books with closest average sentence length: " + str(sorted_diffs)
 
 '''
 Read or, if non-existent, create a CSV of the average sentence lengths of all of the
