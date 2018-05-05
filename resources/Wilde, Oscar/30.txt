@@ -1,0 +1,1539 @@
+Shorter Prose Pieces~~~﻿Project Gutenberg's Etext of Shorter Prose Pieces by Oscar Wilde
+#22 in our series by Oscar Wilde
+
+
+Copyright laws are changing all over the world, be sure to check
+the copyright laws for your country before posting these files!!
+
+Please take a look at the important information in this header.
+We encourage you to keep this file on your own disk, keeping an
+electronic path open for the next readers.  Do not remove this.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**Etexts Readable By Both Humans and By Computers, Since 1971**
+
+*These Etexts Prepared By Hundreds of Volunteers and Donations*
+
+Information on contacting Project Gutenberg to get Etexts, and
+further information is included below.  We need your donations.
+
+
+Shorter Prose Pieces
+
+by Oscar Wilde
+
+February, 2000 [Etext #2061]
+
+
+Project Gutenberg's Etext of Shorter Prose Pieces by Oscar Wilde
+******This file should be named wldsp10.txt or wldsp10.zip******
+
+Corrected EDITIONS of our etexts get a new NUMBER, wldsp11.txt
+VERSIONS based on separate sources get new LETTER, wldsp10a.txt
+
+
+This etext was prepared by David Price, email ccx074@coventry.ac.uk
+
+Project Gutenberg Etexts are usually created from multiple editions,
+all of which are in the Public Domain in the United States, unless a
+copyright notice is included.  Therefore, we do usually do NOT! keep
+these books in compliance with any particular paper edition.
+
+
+We are now trying to release all our books one month in advance
+of the official release dates, leaving time for better editing.
+
+Please note:  neither this list nor its contents are final till
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg Etexts is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.  To be sure you have an
+up to date first edition [xxxxx10x.xxx] please check file sizes
+in the first week of the next month.  Since our ftp program has
+a bug in it that scrambles the date [tried to fix and failed] a
+look at the file size will have to do, but we will try to see a
+new copy has at least one byte more or less.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any etext selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.  This
+projected audience is one hundred million readers.  If our value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour this year as we release thirty-six text
+files per month, or 432 more Etexts in 1999 for a total of 2000+
+If these reach just 10% of the computerized population, then the
+total should reach over 200 billion Etexts given away this year.
+
+The Goal of Project Gutenberg is to Give Away One Trillion Etext
+Files by December 31, 2001.  [10,000 x 100,000,000 = 1 Trillion]
+This is ten thousand titles each to one hundred million readers,
+which is only ~5% of the present number of computer users.
+
+At our revised rates of production, we will reach only one-third
+of that goal by the end of 2001, or about 3,333 Etexts unless we
+manage to get some real funding; currently our funding is mostly
+from Michael Hart's salary at Carnegie-Mellon University, and an
+assortment of sporadic gifts; this salary is only good for a few
+more years, so we are looking for something to replace it, as we
+don't want Project Gutenberg to be so dependent on one person.
+
+We need your donations more than ever!
+
+
+All donations should be made to "Project Gutenberg/CMU": and are
+tax deductible to the extent allowable by law.  (CMU = Carnegie-
+Mellon University).
+
+For these and other matters, please mail to:
+
+Project Gutenberg
+P. O. Box  2782
+Champaign, IL 61825
+
+When all other email fails. . .try our Executive Director:
+Michael S. Hart <hart@pobox.com>
+hart@pobox.com forwards to hart@prairienet.org and archive.org
+if your mail bounces from archive.org, I will still see it, if
+it bounces from prairienet.org, better resend later on. . . .
+
+We would prefer to send you this information by email.
+
+******
+
+To access Project Gutenberg etexts, use any Web browser
+to view http://promo.net/pg.  This site lists Etexts by
+author and by title, and includes information about how
+to get involved with Project Gutenberg.  You could also
+download our past Newsletters, or subscribe here.  This
+is one of our major sites, please email hart@pobox.com,
+for a more complete list of our various sites.
+
+To go directly to the etext collections, use FTP or any
+Web browser to visit a Project Gutenberg mirror (mirror
+sites are available on 7 continents; mirrors are listed
+at http://promo.net/pg).
+
+Mac users, do NOT point and click, typing works better.
+
+Example FTP session:
+
+ftp sunsite.unc.edu
+login: anonymous
+password: your@login
+cd pub/docs/books/gutenberg
+cd etext90 through etext99
+dir [to see files]
+get or mget [to get files. . .set bin for zip files]
+GET GUTINDEX.??  [to get a year's listing of books, e.g., GUTINDEX.99]
+GET GUTINDEX.ALL [to get a listing of ALL books]
+
+***
+
+**Information prepared by the Project Gutenberg legal advisor**
+
+(Three Pages)
+
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
+Why is this "Small Print!" statement here?  You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this etext, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault.  So, among other things, this "Small Print!" statement
+disclaims most of our liability to you.  It also tells you how
+you can distribute copies of this etext if you want to.
+
+*BEFORE!* YOU USE OR READ THIS ETEXT
+By using or reading any part of this PROJECT GUTENBERG-tm
+etext, you indicate that you understand, agree to and accept
+this "Small Print!" statement.  If you do not, you can receive
+a refund of the money (if any) you paid for this etext by
+sending a request within 30 days of receiving it to the person
+you got it from.  If you received this etext on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM ETEXTS
+This PROJECT GUTENBERG-tm etext, like most PROJECT GUTENBERG-
+tm etexts, is a "public domain" work distributed by Professor
+Michael S. Hart through the Project Gutenberg Association at
+Carnegie-Mellon University (the "Project").  Among other
+things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties.  Special rules, set forth
+below, apply if you wish to copy and distribute this etext
+under the Project's "PROJECT GUTENBERG" trademark.
+
+To create these etexts, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works.  Despite these efforts, the Project's etexts and any
+medium they may be on may contain "Defects".  Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other etext medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] the Project (and any other party you may receive this
+etext from as a PROJECT GUTENBERG-tm etext) disclaims all
+liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this etext within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from.  If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy.  If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS ETEXT IS OTHERWISE PROVIDED TO YOU "AS-IS".  NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE ETEXT OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold the Project, its directors,
+officers, members and agents harmless from all liability, cost
+and expense, including legal fees, that arise directly or
+indirectly from any of the following that you do or cause:
+[1] distribution of this etext, [2] alteration, modification,
+or addition to the etext, or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this etext electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     etext or this "small print!" statement.  You may however,
+     if you wish, distribute this etext in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word pro-
+     cessing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The etext, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The etext may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the etext (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          etext in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the etext refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Project of 20% of the
+     net profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Association/Carnegie-Mellon
+     University" within the 60 days following each
+     date you prepare (or were legally required to prepare)
+     your annual (or equivalent periodic) tax return.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+The Project gratefully accepts contributions in money, time,
+scanning machines, OCR software, public domain etexts, royalty
+free copyright licenses, and every other sort of contribution
+you can think of.  Money should be paid to "Project Gutenberg
+Association / Carnegie-Mellon University".
+
+*END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
+
+
+
+
+
+This etext was prepared by David Price, email ccx074@coventry.ac.uk
+
+
+
+
+
+OSCAR WILDE--SHORTER PROSE PIECES
+
+
+
+
+Contents:
+
+Phrases And Philosophies for the Use of The Young
+Mrs. Langtry as Hester Grazebrook
+Slaves of Fashion
+Woman's Dress
+More Radical Ideas upon Dress Reform
+Costume
+The American Invasion
+Sermons in Stones at Bloomsbury
+L'Envoi
+
+
+
+
+PHRASES AND PHILOSOPHIES FOR THE USE OF THE YOUNG
+
+
+
+The first duty in life is to be as artificial as possible.  What
+the second duty is no one has as yet discovered.
+
+Wickedness is a myth invented by good people to account for the
+curious attractiveness of others.
+
+If the poor only had profiles there would be no difficulty in
+solving the problem of poverty.
+
+Those who see any difference between soul and body have neither.
+
+A really well-made buttonhole is the only link between Art and
+Nature.
+
+Religions die when they are proved to be true.  Science is the
+record of dead religions.
+
+The well-bred contradict other people.  The wise contradict
+themselves.
+
+Nothing that actually occurs is of the smallest importance.
+
+Dulness is the coming of age of seriousness.
+
+In all unimportant matters, style, not sincerity, is the essential.
+In all important matters, style, not sincerity, is the essential.
+
+If one tells the truth one is sure, sooner or later, to be found
+out.
+
+Pleasure is the only thing one should live for.  Nothing ages like
+happiness.
+
+It is only by not paying one's bills that one can hope to live in
+the memory of the commercial classes.
+
+No crime is vulgar, but all vulgarity is crime.  Vulgarity is the
+conduct of others.
+
+Only the shallow know themselves.
+
+Time is waste of money.
+
+One should always be a little improbable.
+
+There is a fatality about all good resolutions.  They are
+invariably made too soon.
+
+The only way to atone for being occasionally a little overdressed
+is by being always absolutely overeducated.
+
+To be premature is to be perfect.
+
+Any preoccupation with ideas of what is right or wrong in conduct
+shows an arrested intellectual development.
+
+Ambition is the last refuge of the failure.
+
+A truth ceases to be true when more than one person believes in it.
+
+In examinations the foolish ask questions that the wise cannot
+answer.
+
+Greek dress was in its essence inartistic.  Nothing should reveal
+the body but the body.
+
+One should either be a work of art, or wear a work of art.
+
+It is only the superficial qualities that last.  Man's deeper
+nature is soon found out.
+
+Industry is the root of all ugliness.
+
+The ages live in history through their anachronisms.
+
+It is only the gods who taste of death.  Apollo has passed away,
+but Hyacinth, whom men say he slew, lives on.  Nero and Narcissus
+are always with us.
+
+The old believe everything:  the middle-aged suspect everything;
+the young know everything.
+
+The condition of perfection is idleness:  the aim of perfection is
+youth.
+
+Only the great masters of style ever succeeded in being obscure.
+
+There is something tragic about the enormous number of young men
+there are in England at the present moment who start life with
+perfect profiles, and end by adopting some useful profession.
+
+To love oneself is the beginning of a life-long romance.
+
+
+
+MRS. LANGTRY AS HESTER GRAZEBROOK
+
+
+
+It is only in the best Greek gems, on the silver coins of Syracuse,
+or among the marble figures of the Parthenon frieze, that one can
+find the ideal representation of the marvellous beauty of that face
+which laughed through the leaves last night as Hester Grazebrook.
+
+Pure Greek it is, with the grave low forehead, the exquisitely
+arched brow; the noble chiselling of the mouth, shaped as if it
+were the mouthpiece of an instrument of music; the supreme and
+splendid curve of the cheek; the augustly pillared throat which
+bears it all:  it is Greek, because the lines which compose it are
+so definite and so strong, and yet so exquisitely harmonized that
+the effect is one of simple loveliness purely:  Greek, because its
+essence and its quality, as is the quality of music and of
+architecture, is that of beauty based on absolutely mathematical
+laws.
+
+But while art remains dumb and immobile in its passionless
+serenity, with the beauty of this face it is different:  the grey
+eyes lighten into blue or deepen into violet as fancy succeeds
+fancy; the lips become flower-like in laughter or, tremulous as a
+bird's wing, mould themselves at last into the strong and bitter
+moulds of pain or scorn.  And then motion comes, and the statue
+wakes into life.  But the life is not the ordinary life of common
+days; it is life with a new value given to it, the value of art:
+and the charm to me of Hester Grazebrook's acting in the first
+scene of the play last night was that mingling of classic grace
+with absolute reality which is the secret of all beautiful art, of
+the plastic work of the Greeks and of the pictures of Jean Francois
+Millet equally.
+
+I do not think that the sovereignty and empire of women's beauty
+has at all passed away, though we may no longer go to war for them
+as the Greeks did for the daughter of Leda.  The greatest empire
+still remains for them--the empire of art.  And, indeed, this
+wonderful face, seen last night for the first time in America, has
+filled and permeated with the pervading image of its type the whole
+of our modern art in England.  Last century it was the romantic
+type which dominated in art, the type loved by Reynolds and
+Gainsborough, of wonderful contrasts of colour, of exquisite and
+varying charm of expression, but without that definite plastic
+feeling which divides classic from romantic work.  This type
+degenerated into mere facile prettiness in the hands of lesser
+masters, and, in protest against it, was created by the hands of
+the Pre-Raphaelites a new type, with its rare combination of Greek
+form with Florentine mysticism.  But this mysticism becomes over-
+strained and a burden, rather than an aid to expression, and a
+desire for the pure Hellenic joy and serenity came in its place;
+and in all our modern work, in the paintings of such men as Albert
+Moore and Leighton and Whistler, we can trace the influence of this
+single face giving fresh life and inspiration in the form of a new
+artistic ideal.
+
+
+
+SLAVES OF FASHION
+
+
+
+Miss Leffler-Arnim's statement, in a lecture delivered recently at
+St. Saviour's Hospital, that "she had heard of instances where
+ladies were so determined not to exceed the fashionable measurement
+that they had actually held on to a cross-bar while their maids
+fastened the fifteen-inch corset," has excited a good deal of
+incredulity, but there is nothing really improbable in it.  From
+the sixteenth century to our own day there is hardly any form of
+torture that has not been inflicted on girls, and endured by women,
+in obedience to the dictates of an unreasonable and monstrous
+Fashion.  "In order to obtain a real Spanish figure," says
+Montaigne, "what a Gehenna of suffering will not women endure,
+drawn in and compressed by great coches entering the flesh; nay,
+sometimes they even die thereof!"  "A few days after my arrival at
+school," Mrs. Somerville tells us in her memoirs, "although
+perfectly straight and well made, I was enclosed in stiff stays,
+with a steel busk in front; while above my frock, bands drew my
+shoulders back till the shoulder-blades met.  Then a steel rod with
+a semi-circle, which went under my chin, was clasped to the steel
+busk in my stays.  In this constrained state I and most of the
+younger girls had to prepare our lessons"; and in the life of Miss
+Edgeworth we read that, being sent to a certain fashionable
+establishment, "she underwent all the usual tortures of back-
+boards, iron collars and dumbs, and also (because she was a very
+tiny person) the unusual one of being hung by the neck to draw out
+the muscles and increase the growth," a signal failure in her case.
+Indeed, instances of absolute mutilation and misery are so common
+in the past that it is unnecessary to multiply them; but it is
+really sad to think that in our own day a civilized woman can hang
+on to a cross-bar while her maid laces her waist into a fifteen-
+inch circle.  To begin with, the waist is not a circle at all, but
+an oval; nor can there be any greater error than to imagine that an
+unnaturally small waist gives an air of grace, or even of
+slightness, to the whole figure.  Its effect, as a rule, is simply
+to exaggerate the width of the shoulders and the hips; and those
+whose figures possess that stateliness which is called stoutness by
+the vulgar, convert what is a quality into a defect by yielding to
+the silly edicts of Fashion on the subject of tight-lacing.  The
+fashionable English waist, also, is not merely far too small, and
+consequently quite out of proportion to the rest of the figure, but
+it is worn far too low down.  I use the expression "worn"
+advisedly, for a waist nowadays seems to be regarded as an article
+of apparel to be put on when and where one likes.  A long waist
+always implies shortness of the lower limbs, and, from the artistic
+point of view, has the effect of diminishing the height; and I am
+glad to see that many of the most charming women in Paris are
+returning to the idea of the Directoire style of dress.  This style
+is not by any means perfect, but at least it has the merit of
+indicating the proper position of the waist.  I feel quite sure
+that all English women of culture and position will set their faces
+against such stupid and dangerous practices as are related by Miss
+Leffler-Arnim.  Fashion's motto is:  Il faut souffrir pour etre
+belle; but the motto of art and of common-sense is:  Il faut etre
+bete pour souffrir.
+
+Talking of Fashion, a critic in the Pall Mall Gazelle expresses his
+surprise that I should have allowed an illustration of a hat,
+covered with "the bodies of dead birds," to appear in the first
+number of the Woman's World; and as I have received many letters on
+the subject, it is only right that I should state my exact position
+in the matter.  Fashion is such an essential part of the mundus
+muliebris of our day, that it seems to me absolutely necessary that
+its growth, development, and phases should be duly chronicled; and
+the historical and practical value of such a record depends
+entirely upon its perfect fidelity to fact.  Besides, it is quite
+easy for the children of light to adapt almost any fashionable form
+of dress to the requirements of utility and the demands of good
+taste.  The Sarah Bernhardt tea-gown, for instance, figured in the
+present issue, has many good points about it, and the gigantic
+dress-improver does not appear to me to be really essential to the
+mode; and though the Postillion costume of the fancy dress ball is
+absolutely detestable in its silliness and vulgarity, the so-called
+Late Georgian costume in the same plate is rather pleasing.  I
+must, however, protest against the idea that to chronicle the
+development of Fashion implies any approval of the particular forms
+that Fashion may adopt.
+
+
+
+WOMAN'S DRESS
+
+
+
+The "Girl Graduate" must of course have precedence, not merely for
+her sex but for her sanity:  her letter is extremely sensible.  She
+makes two points:  that high heels are a necessity for any lady who
+wishes to keep her dress clean from the Stygian mud of our streets,
+and that without a tight corset the ordinary number of petticoats
+and etceteras' cannot be properly or conveniently held up.  Now, it
+is quite true that as long as the lower garments are suspended from
+the hips a corset is an absolute necessity; the mistake lies in not
+suspending all apparel from the shoulders.  In the latter case a
+corset becomes useless, the body is left free and unconfined for
+respiration and motion, there is more health, and consequently more
+beauty.  Indeed all the most ungainly and uncomfortable articles of
+dress that fashion has ever in her folly prescribed, not the tight
+corset merely, but the farthingale, the vertugadin, the hoop, the
+crinoline, and that modern monstrosity the so-called "dress
+improver" also, all of them have owed their origin to the same
+error, the error of not seeing that it is from the shoulders, and
+from the shoulders only, that all garments should be hung.
+
+And as regards high heels, I quite admit that some additional
+height to the shoe or boot is necessary if long gowns are to be
+worn in the street; but what I object to is that the height should
+be given to the heel only, and not to the sole of the foot also.
+The modern high-heeled boot is, in fact, merely the clog of the
+time of Henry VI., with the front prop left out, and its inevitable
+effect is to throw the body forward, to shorten the steps, and
+consequently to produce that want of grace which always follows
+want of freedom.
+
+Why should clogs be despised?  Much art has been expended on clogs.
+They have been made of lovely woods, and delicately inlaid with
+ivory, and with mother-of-pearl.  A clog might be a dream of
+beauty, and, if not too high or too heavy, most comfortable also.
+But if there be any who do not like clogs, let them try some
+adaptation of the trouser of the Turkish lady, which is loose round
+the limb and tight at the ankle.
+
+The "Girl Graduate," with a pathos to which I am not insensible,
+entreats me not to apotheosize "that awful, befringed, beflounced,
+and bekilted divided skirt."  Well, I will acknowledge that the
+fringes, the flounces, and the kilting do certainly defeat the
+whole object of the dress, which is that of ease and liberty; but I
+regard these things as mere wicked superfluities, tragic proofs
+that the divided skirt is ashamed of its own division.  The
+principle of the dress is good, and, though it is not by any means
+perfection, it is a step towards it.
+
+Here I leave the "Girl Graduate," with much regret, for Mr.
+Wentworth Huyshe.  Mr. Huyshe makes the old criticism that Greek
+dress is unsuited to our climate, and, to me the somewhat new
+assertion, that the men's dress of a hundred years ago was
+preferable to that of the second part of the seventeenth century,
+which I consider to have been the exquisite period of English
+costume.
+
+Now, as regards the first of these two statements, I will say, to
+begin with, that the warmth of apparel does not depend really on
+the number of garments worn, but on the material of which they are
+made.  One of the chief faults of modern dress is that it is
+composed of far too many articles of clothing, most of which are of
+the wrong substance; but over a substratum of pure wool, such as is
+supplied by Dr. Jaeger under the modern German system, some
+modification of Greek costume is perfectly applicable to our
+climate, our country and our century.  This important fact has
+already been pointed out by Mr. E. W. Godwin in his excellent,
+though too brief handbook on Dress, contributed to the Health
+Exhibition.  I call it an important fact because it makes almost
+any form of lovely costume perfectly practicable in our cold
+climate.  Mr. Godwin, it is true, points out that the English
+ladies of the thirteenth century abandoned after some time the
+flowing garments of the early Renaissance in favour of a tighter
+mode, such as Northern Europe seems to demand.  This I quite admit,
+and its significance; but what I contend, and what I am sure Mr.
+Godwin would agree with me in, is that the principles, the laws of
+Greek dress may be perfectly realized, even in a moderately tight
+gown with sleeves:  I mean the principle of suspending all apparel
+from the shoulders, and of relying for beauty of effect not on the
+stiff ready-made ornaments of the modern milliner--the bows where
+there should be no bows, and the flounces where there should be no
+flounces--but on the exquisite play of light and line that one gets
+from rich and rippling folds.  I am not proposing any antiquarian
+revival of an ancient costume, but trying merely to point out the
+right laws of dress, laws which are dictated by art and not by
+archaeology, by science and not by fashion; and just as the best
+work of art in our days is that which combines classic grace with
+absolute reality, so from a continuation of the Greek principles of
+beauty with the German principles of health will come, I feel
+certain, the costume of the future.
+
+And now to the question of men's dress, or rather to Mr. Huyshe's
+claim of the superiority, in point of costume, of the last quarter
+of the eighteenth century over the second quarter of the
+seventeenth.  The broad-brimmed hat of 1640 kept the rain of winter
+and the glare of summer from the face; the same cannot be said of
+the hat of one hundred years ago, which, with its comparatively
+narrow brim and high crown, was the precursor of the modern
+"chimney-pot":  a wide turned-down collar is a healthier thing than
+a strangling stock, and a short cloak much more comfortable than a
+sleeved overcoat, even though the latter may have had "three
+capes"; a cloak is easier to put on and off, lies lightly on the
+shoulder in summer, and wrapped round one in winter keeps one
+perfectly warm.  A doublet, again, is simpler than a coat and
+waistcoat; instead of two garments one has one; by not being open
+also it protects the chest better.
+
+Short loose trousers are in every way to be preferred to the tight
+knee-breeches which often impede the proper circulation of the
+blood; and finally, the soft leather boots which could be worn
+above or below the knee, are more supple, and give consequently
+more freedom, than the stiff Hessian which Mr. Huyshe so praises.
+I say nothing about the question of grace and picturesqueness, for
+I suppose that no one, not even Mr. Huyshe, would prefer a
+maccaroni to a cavalier, a Lawrence to a Vandyke, or the third
+George to the first Charles; but for ease, warmth and comfort this
+seventeenth-century dress is infinitely superior to anything that
+came after it, and I do not think it is excelled by any preceding
+form of costume.  I sincerely trust that we may soon see in England
+some national revival of it.
+
+
+
+MORE RADICAL IDEAS UPON DRESS REFORM
+
+
+
+I have been much interested at reading the large amount of
+correspondence that has been called forth by my recent lecture on
+Dress.  It shows me that the subject of dress reform is one that is
+occupying many wise and charming people, who have at heart the
+principles of health, freedom, and beauty in costume, and I hope
+that "H. B. T." and "Materfamilias" will have all the real
+influence which their letters--excellent letters both of them--
+certainly deserve.
+
+I turn first to Mr. Huyshe's second letter, and the drawing that
+accompanies it; but before entering into any examination of the
+theory contained in each, I think I should state at once that I
+have absolutely no idea whether this gentleman wears his hair long
+or short, or his cuffs back or forward, or indeed what he is like
+at all.  I hope he consults his own comfort and wishes in
+everything which has to do with his dress, and is allowed to enjoy
+that individualism in apparel which he so eloquently claims for
+himself, and so foolishly tries to deny to others; but I really
+could not take Mr. Wentworth Huyshe's personal appearance as any
+intellectual basis for an investigation of the principles which
+should guide the costume of a nation.  I am not denying the force,
+or even the popularity, of the "'Eave arf a brick" school of
+criticism, but I acknowledge it does not interest me.  The gamin in
+the gutter may be a necessity, but the gamin in discussion is a
+nuisance.  So I will proceed at once to the real point at issue,
+the value of the late eighteenth-century costume over that worn in
+the second quarter of the seventeenth:  the relative merits, that
+is, of the principles contained in each.  Now, as regards the
+eighteenth-century costume, Mr. Wentworth Huyshe acknowledges that
+he has had no practical experience of it at all; in fact he makes a
+pathetic appeal to his friends to corroborate him in his assertion,
+which I do not question for a moment, that he has never been
+"guilty of the eccentricity" of wearing himself the dress which he
+proposes for general adoption by others.  There is something so
+naive and so amusing about this last passage in Mr. Huyshe's letter
+that I am really in doubt whether I am not doing him a wrong in
+regarding him as having any serious, or sincere, views on the
+question of a possible reform in dress; still, as irrespective of
+any attitude of Mr. Huyshe's in the matter, the subject is in
+itself an interesting one, I think it is worth continuing,
+particularly as I have myself worn this late eighteenth-century
+dress many times, both in public and in private, and so may claim
+to have a very positive right to speak on its comfort and
+suitability.  The particular form of the dress I wore was very
+similar to that given in Mr. Godwin's handbook, from a print of
+Northcote's, and had a certain elegance and grace about it which
+was very charming; still, I gave it up for these reasons:- After a
+further consideration of the laws of dress I saw that a doublet is
+a far simpler and easier garment than a coat and waistcoat, and, if
+buttoned from the shoulder, far warmer also, and that tails have no
+place in costume, except on some Darwinian theory of heredity; from
+absolute experience in the matter I found that the excessive
+tightness of knee-breeches is not really comfortable if one wears
+them constantly; and, in fact, I satisfied myself that the dress is
+not one founded on any real principles.  The broad-brimmed hat and
+loose cloak, which, as my object was not, of course, historical
+accuracy but modern ease, I had always worn with the costume in
+question, I have still retained, and find them most comfortable.
+
+Well, although Mr. Huyshe has no real experience of the dress he
+proposes, he gives us a drawing of it, which he labels, somewhat
+prematurely, "An ideal dress."  An ideal dress of course it is not;
+"passably picturesque," he says I may possibly think it; well,
+passably picturesque it may be, but not beautiful, certainly,
+simply because it is not founded on right principles, or, indeed,
+on any principles at all.  Picturesqueness one may get in a variety
+of ways; ugly things that are strange, or unfamiliar to us, for
+instance, may be picturesque, such as a late sixteenth-century
+costume, or a Georgian house.  Ruins, again, may be picturesque,
+but beautiful they never can be, because their lines are
+meaningless.  Beauty, in fact, is to be got only from the
+perfection of principles; and in "the ideal dress" of Mr. Huyshe
+there are no ideas or principles at all, much less the perfection
+of either.  Let us examine it, and see its faults; they are obvious
+to any one who desires more than a "Fancy-dress ball" basis for
+costume.  To begin with, the hat and boots are all wrong.  Whatever
+one wears on the extremities, such as the feet and head, should,
+for the sake of comfort, be made of a soft material, and for the
+sake of freedom should take its shape from the way one chooses to
+wear it, and not from any stiff, stereotyped design of hat or boot
+maker.  In a hat made on right principles one should be able to
+turn the brim up or down according as the day is dark or fair, dry
+or wet; but the hat brim of Mr. Huyshe's drawing is perfectly
+stiff, and does not give much protection to the face, or the
+possibility of any at all to the back of the head or the ears, in
+case of a cold east wind; whereas the bycocket, a hat made in
+accordance with the right laws, can be turned down behind and at
+the sides, and so give the same warmth as a hood.  The crown,
+again, of Mr. Huyshe's hat is far too high; a high crown diminishes
+the stature of a small person, and in the case of any one who is
+tall is a great inconvenience when one is getting in and out of
+hansoms and railway carriages, or passing under a street awning:
+in no case is it of any value whatsoever, and being useless it is
+of course against the principles of dress.
+
+As regards the boots, they are not quite so ugly or so
+uncomfortable as the hat; still they are evidently made of stiff
+leather, as otherwise they would fall down to the ankle, whereas
+the boot should be made of soft leather always, and if worn high at
+all must be either laced up the front or carried well over the
+knee:  in the latter case one combines perfect freedom for walking
+together with perfect protection against rain, neither of which
+advantages a short stiff boot will ever give one, and when one is
+resting in the house the long soft boot can be turned down as the
+boot of 1640 was.  Then there is the overcoat:  now, what are the
+right principles of an overcoat?  To begin with, it should be
+capable of being easily put on or off, and worn over any kind of
+dress; consequently it should never have narrow sleeves, such as
+are shown in Mr. Huyshe's drawing.  If an opening or slit for the
+arm is required it should be made quite wide, and may be protected
+by a flap, as in that excellent overall the modern Inverness cape;
+secondly, it should not be too tight, as otherwise all freedom of
+walking is impeded.  If the young gentleman in the drawing buttons
+his overcoat he may succeed in being statuesque, though that I
+doubt very strongly, but he will never succeed in being swift; his
+super-totus is made for him on no principle whatsoever; a super-
+totus, or overall, should be capable of being worn long or short,
+quite loose or moderately tight, just as the wearer wishes; he
+should be able to have one arm free and one arm covered or both
+arms free or both arms covered, just as he chooses for his
+convenience in riding, walking, or driving; an overall again should
+never be heavy, and should always be warm:  lastly, it should be
+capable of being easily carried if one wants to take it off; in
+fact, its principles are those of freedom and comfort, and a cloak
+realizes them all, just as much as an overcoat of the pattern
+suggested by Mr. Huyshe violates them.
+
+The knee-breeches are of course far too tight; any one who has worn
+them for any length of time--any one, in fact, whose views on the
+subject are not purely theoretical--will agree with me there; like
+everything else in the dress, they are a great mistake.  The
+substitution of the jacket for the coat and waistcoat of the period
+is a step in the right direction, which I am glad to see; it is,
+however, far too tight over the hips for any possible comfort.
+Whenever a jacket or doublet comes below the waist it should be
+slit at each side.  In the seventeenth century the skirt of the
+jacket was sometimes laced on by points and tags, so that it could
+be removed at will, sometimes it was merely left open at the sides:
+in each case it exemplified what are always the true principles of
+dress, I mean freedom and adaptability to circumstances.
+
+Finally, as regards drawings of this kind, I would point out that
+there is absolutely no limit at all to the amount of "passably
+picturesque" costumes which can be either revived or invented for
+us; but that unless a costume is founded on principles and
+exemplified laws, it never can be of any real value to us in the
+reform of dress.  This particular drawing of Mr. Huyshe's, for
+instance, proves absolutely nothing, except that our grandfathers
+did not understand the proper laws of dress.  There is not a single
+rule of right costume which is not violated in it, for it gives us
+stiffness, tightness and discomfort instead of comfort, freedom and
+ease.
+
+Now here, on the other hand, is a dress which, being founded on
+principles, can serve us as an excellent guide and model; it has
+been drawn for me, most kindly, by Mr. Godwin from the Duke of
+Newcastle's delightful book on horsemanship, a book which is one of
+our best authorities on our best era of costume.  I do not of
+course propose it necessarily for absolute imitation; that is not
+the way in which one should regard it; it is not, I mean, a revival
+of a dead costume, but a realization of living laws.  I give it as
+an example of a particular application of principles which are
+universally right.  This rationally dressed young man can turn his
+hat brim down if it rains, and his loose trousers and boots down if
+he is tired--that is, he can adapt his costume to circumstances;
+then he enjoys perfect freedom, the arms and legs are not made
+awkward or uncomfortable by the excessive tightness of narrow
+sleeves and knee-breeches, and the hips are left quite
+untrammelled, always an important point; and as regards comfort,
+his jacket is not too loose for warmth, nor too close for
+respiration; his neck is well protected without being strangled,
+and even his ostrich feathers, if any Philistine should object to
+them, are not merely dandyism, but fan him very pleasantly, I am
+sure, in summer, and when the weather is bad they are no doubt left
+at home, and his cloak taken out.  THE VALUE OF THE DRESS IS SIMPLY
+THAT EVERY SEPARATE ARTICLE OF IT EXPRESSES A LAW.  My young man is
+consequently apparelled with ideas, while Mr. Huyshe's young man is
+stiffened with facts; the latter teaches one nothing; from the
+former one learns everything.  I need hardly say that this dress is
+good, not because it is seventeenth century, but because it is
+constructed on the true principles of costume, just as a square
+lintel or pointed arch is good, not because one may be Greek and
+the other Gothic, but because each of them is the best method of
+spanning a certain-sized opening, or resisting a certain weight.
+The fact, however, that this dress was generally worn in England
+two centuries and a half ago shows at least this, that the right
+laws of dress have been understood and realized in our country, and
+so in our country may be realized and understood again.  As regards
+the absolute beauty of this dress and its meaning, I should like to
+say a few words more.  Mr. Wentworth Huyshe solemnly announces that
+"he and those who think with him" cannot permit this question of
+beauty to be imported into the question of dress; that he and those
+who think with him take "practical views on the subject," and so
+on.  Well, I will not enter here into a discussion as to how far
+any one who does not take beauty and the value of beauty into
+account can claim to be practical at all.  The word practical is
+nearly always the last refuge of the uncivilized.  Of all misused
+words it is the most evilly treated.  But what I want to point out
+is that beauty is essentially organic; that is, it comes, not from
+without, but from within, not from any added prettiness, but from
+the perfection of its own being; and that consequently, as the body
+is beautiful, so all apparel that rightly clothes it must be
+beautiful also in its construction and in its lines.
+
+I have no more desire to define ugliness than I have daring to
+define beauty; but still I would like to remind those who mock at
+beauty as being an unpractical thing of this fact, that an ugly
+thing is merely a thing that is badly made, or a thing that does
+not serve it purpose; that ugliness is want of fitness; that
+ugliness is failure; that ugliness is uselessness, such as ornament
+in the wrong place, while beauty, as some one finely said, is the
+purgation of all superfluities.  There is a divine economy about
+beauty; it gives us just what is needful and no more, whereas
+ugliness is always extravagant; ugliness is a spendthrift and
+wastes its material; in fine, ugliness--and I would commend this
+remark to Mr. Wentworth Huyshe--ugliness, as much in costume as in
+anything else, is always the sign that somebody has been
+unpractical.  So the costume of the future in England, if it is
+founded on the true laws of freedom, comfort, and adaptability to
+circumstances, cannot fail to be most beautiful also, because
+beauty is the sign always of the rightness of principles, the
+mystical seal that is set upon what is perfect, and upon what is
+perfect only.
+
+As for your other correspondent, the first principle of dress that
+all garments should be hung from the shoulders and not from the
+waist seems to me to be generally approved of, although an "Old
+Sailor" declares that no sailors or athletes ever suspend their
+clothes from the shoulders, but always from the hips.  My own
+recollection of the river and running ground at Oxford--those two
+homes of Hellenism in our little Gothic town--is that the best
+runners and rowers (and my own college turned out many) wore always
+a tight jersey, with short drawers attached to it, the whole
+costume being woven in one piece.  As for sailors, it is true, I
+admit, and the bad custom seems to involve that constant "hitching
+up" of the lower garments which, however popular in transpontine
+dramas, cannot, I think, but be considered an extremely awkward
+habit; and as all awkwardness comes from discomfort of some kind, I
+trust that this point in our sailor's dress will be looked to in
+the coming reform of our navy, for, in spite of all protests, I
+hope we are about to reform everything, from torpedoes to top-hats,
+and from crinolettes to cruises.
+
+Then as regards clogs, my suggestion of them seems to have aroused
+a great deal of terror.  Fashion in her high-heeled boots has
+screamed, and the dreadful word "anachronism" has been used.  Now,
+whatever is useful cannot be an anachronism.  Such a word is
+applicable only to the revival of some folly; and, besides, in the
+England of our own day clogs are still worn in many of our
+manufacturing towns, such as Oldham.  I fear that in Oldham they
+may not be dreams of beauty; in Oldham the art of inlaying them
+with ivory and with pearl may possibly be unknown; yet in Oldham
+they serve their purpose.  Nor is it so long since they were worn
+by the upper classes of this country generally.  Only a few days
+ago I had the pleasure of talking to a lady who remembered with
+affectionate regret the clogs of her girlhood; they were, according
+to her, not too high nor too heavy, and were provided, besides,
+with some kind of spring in the sole so as to make them the more
+supple for the foot in walking.  Personally, I object to all
+additional height being given to a boot or shoe; it is really
+against the proper principles of dress, although, if any such
+height is to be given it should be by means of two props; not one;
+but what I should prefer to see is some adaptation of the divided
+skirt or long and moderately loose knickerbockers.  If, however,
+the divided skirt is to be of any positive value, it must give up
+all idea of "being identical in appearance with an ordinary skirt";
+it must diminish the moderate width of each of its divisions, and
+sacrifice its foolish frills and flounces; the moment it imitates a
+dress it is lost; but let it visibly announce itself as what it
+actually is, and it will go far towards solving a real difficulty.
+I feel sure that there will be found many graceful and charming
+girls ready to adopt a costume founded on these principles, in
+spite of Mr. Wentworth Huyshe's terrible threat that he will not
+propose to them as long as they wear it, for all charges of a want
+of womanly character in these forms of dress are really
+meaningless; every right article of apparel belongs equally to both
+sexes, and there is absolutely no such thing as a definitely
+feminine garment.  One word of warning I should like to be allowed
+to give:  The over-tunic should be made full and moderately loose;
+it may, if desired, be shaped more or less to the figure, but in no
+case should it be confined at the waist by any straight band or
+belt; on the contrary, it should fall from the shoulder to the
+knee, or below it, in fine curves and vertical lines, giving more
+freedom and consequently more grace.  Few garments are so
+absolutely unbecoming as a belted tunic that reaches to the knees,
+a fact which I wish some of our Rosalinds would consider when they
+don doublet and hose; indeed, to the disregard of this artistic
+principle is due the ugliness, the want of proportion, in the
+Bloomer costume, a costume which in other respects is sensible.
+
+
+
+COSTUME
+
+
+
+Are we not all weary of him, that venerable impostor fresh from the
+steps of the Piazza di Spagna, who, in the leisure moments that he
+can spare from his customary organ, makes the round of the studios
+and is waited for in Holland Park?  Do we not all recognize him,
+when, with the gay insouciance of his nation, he reappears on the
+walls of our summer exhibitions as everything that he is not, and
+as nothing that he is, glaring at us here as a patriarch of Canaan,
+here beaming as a brigand from the Abruzzi?  Popular is he, this
+poor peripatetic professor of posing, with those whose joy it is to
+paint the posthumous portrait of the last philanthropist who in his
+lifetime had neglected to be photographed,--yet he is the sign of
+the decadence, the symbol of decay.
+
+For all costumes are caricatures.  The basis of Art is not the
+Fancy Ball.  Where there is loveliness of dress, there is no
+dressing up.  And so, were our national attire delightful in
+colour, and in construction simple and sincere; were dress the
+expression of the loveliness that it shields and of the swiftness
+and motion that it does not impede; did its lines break from the
+shoulder instead of bulging from the waist; did the inverted
+wineglass cease to be the ideal of form; were these things brought
+about, as brought about they will be, then would painting be no
+longer an artificial reaction against the ugliness of life, but
+become, as it should be, the natural expression of life's beauty.
+Nor would painting merely, but all the other arts also, be the
+gainers by a change such as that which I propose; the gainers, I
+mean, through the increased atmosphere of Beauty by which the
+artists would be surrounded and in which they would grow up.  For
+Art is not to be taught in Academies.  It is what one looks at, not
+what one listens to, that makes the artist.  The real schools
+should be the streets.  There is not, for instance, a single
+delicate line, or delightful proportion, in the dress of the
+Greeks, which is not echoed exquisitely in their architecture.  A
+nation arrayed in stove-pipe hats and dress-improvers might have
+built the Pantechnichon possibly, but the Parthenon never.  And
+finally, there is this to be said:  Art, it is true, can never have
+any other claim but her own perfection, and it may be that the
+artist, desiring merely to contemplate and to create, is wise in
+not busying himself about change in others:  yet wisdom is not
+always the best; there are times when she sinks to the level of
+common-sense; and from the passionate folly of those--and there are
+many--who desire that Beauty shall be confined no longer to the
+bric-a-brac of the collector and the dust of the museum, but shall
+be, as it should be, the natural and national inheritance of all,--
+from this noble unwisdom, I say, who knows what new loveliness
+shall be given to life, and, under these more exquisite conditions,
+what perfect artist born?  Le milieu se renouvelant, l'art se
+renouvelle.
+
+
+
+THE AMERICAN INVASION
+
+
+
+A terrible danger is hanging over the Americans in London.  Their
+future and their reputation this season depend entirely on the
+success of Buffalo Bill and Mrs. Brown-Potter.  The former is
+certain to draw; for English people are far more interested in
+American barbarism than they are in American civilization.  When
+they sight Sandy Hook they look to their rifles and ammunition;
+and, after dining once at Delmonico's, start off for Colorado or
+California, for Montana or the Yellow Stone Park.  Rocky Mountains
+charm them more than riotous millionaires; they have been known to
+prefer buffaloes to Boston.  Why should they not?  The cities of
+America are inexpressibly tedious.  The Bostonians take their
+learning too sadly; culture with them is an accomplishment rather
+than an atmosphere; their "Hub," as they call it, is the paradise
+of prigs.  Chicago is a sort of monster-shop, full of bustle and
+bores.  Political life at Washington is like political life in a
+suburban vestry.  Baltimore is amusing for a week, but Philadelphia
+is dreadfully provincial; and though one can dine in New York one
+could not dwell there.  Better the Far West with its grizzly bears
+and its untamed cowboys, its free open-air life and its free open-
+air manners, its boundless prairie and its boundless mendacity!
+This is what Buffalo Bill is going to bring to London; and we have
+no doubt that London will fully appreciate his show.
+
+With regard to Mrs. Brown-Potter, as acting is no longer considered
+absolutely essential for success on the English stage, there is
+really no reason why the pretty bright-eyed lady who charmed us all
+last June by her merry laugh and her nonchalant ways, should not--
+to borrow an expression from her native language--make a big boom
+and paint the town red.  We sincerely hope she will; for, on the
+whole, the American invasion has done English society a great deal
+of good.  American women are bright, clever, and wonderfully
+cosmopolitan.  Their patriotic feelings are limited to an
+admiration for Niagara and a regret for the Elevated Railway; and,
+unlike the men, they never bore us with Bunkers Hill.  They take
+their dresses from Paris and their manners from Piccadilly, and
+wear both charmingly.  They have a quaint pertness, a delightful
+conceit, a native self-assertion.  They insist on being paid
+compliments and have almost succeeded in making Englishmen
+eloquent.  For our aristocracy they have an ardent admiration; they
+adore titles and are a permanent blow to Republican principles.  In
+the art of amusing men they are adepts, both by nature and
+education, and can actually tell a story without forgetting the
+point--an accomplishment that is extremely rare among the women of
+other countries.  It is true that they lack repose and that their
+voices are somewhat harsh and strident when they land first at
+Liverpool; but after a time one gets to love those pretty
+whirlwinds in petticoats that sweep so recklessly through society
+and are so agitating to all duchesses who have daughters.  There is
+something fascinating in their funny, exaggerated gestures and
+their petulant way of tossing the head.  Their eyes have no magic
+nor mystery in them, but they challenge us for combat; and when we
+engage we are always worsted.  Their lips seem made for laughter
+and yet they never grimace.  As for their voices they soon get them
+into tune.  Some of them have been known to acquire a fashionable
+drawl in two seasons; and after they have been presented to Royalty
+they all roll their R's as vigorously as a young equerry or an old
+lady-in-waiting.  Still, they never really lose their accent; it
+keeps peeping out here and there, and when they chatter together
+they are like a bevy of peacocks.  Nothing is more amusing than to
+watch two American girls greeting each other in a drawing-room or
+in the Row.  They are like children with their shrill staccato
+cries of wonder, their odd little exclamations.  Their conversation
+sounds like a series of exploding crackers; they are exquisitely
+incoherent and use a sort of primitive, emotional language.  After
+five minutes they are left beautifully breathless and look at each
+other half in amusement and half in affection.  If a stolid young
+Englishman is fortunate enough to be introduced to them he is
+amazed at their extraordinary vivacity, their electric quickness of
+repartee, their inexhaustible store of curious catchwords.  He
+never really understands them, for their thoughts flutter about
+with the sweet irresponsibility of butterflies; but he is pleased
+and amused and feels as if he were in an aviary.  On the whole,
+American girls have a wonderful charm and, perhaps, the chief
+secret of their charm is that they never talk seriously except
+about amusements.  They have, however, one grave fault--their
+mothers.  Dreary as were those old Pilgrim Fathers who left our
+shores more than two centuries ago to found a New England beyond
+the seas, the Pilgrim Mothers who have returned to us in the
+nineteenth century are drearier still.
+
+Here and there, of course, there are exceptions, but as a class
+they are either dull, dowdy or dyspeptic.  It is only fair to the
+rising generation of America to state that they are not to blame
+for this.  Indeed, they spare no pains at all to bring up their
+parents properly and to give them a suitable, if somewhat late,
+education.  From its earliest years every American child spends
+most of its time in correcting the faults of its father and mother;
+and no one who has had the opportunity of watching an American
+family on the deck of an Atlantic steamer, or in the refined
+seclusion of a New York boarding-house, can fail to have been
+struck by this characteristic of their civilization.  In America
+the young are always ready to give to those who are older than
+themselves the full benefits of their inexperience.  A boy of only
+eleven or twelve years of age will firmly but kindly point out to
+his father his defects of manner or temper; will never weary of
+warning him against extravagance, idleness, late hours,
+unpunctuality, and the other temptations to which the aged are so
+particularly exposed; and sometimes, should he fancy that he is
+monopolizing too much of the conversation at dinner, will remind
+him, across the table, of the new child's adage, "Parents should be
+seen, not heard."  Nor does any mistaken idea of kindness prevent
+the little American girl from censuring her mother whenever it is
+necessary.  Often, indeed, feeling that a rebuke conveyed in the
+presence of others is more truly efficacious than one merely
+whispered in the quiet of the nursery, she will call the attention
+of perfect strangers to her mother's general untidiness, her want
+of intellectual Boston conversation, immoderate love of iced water
+and green corn, stinginess in the matter of candy, ignorance of the
+usages of the best Baltimore Society, bodily ailments, and the
+like.  In fact, it may be truly said that no American child is ever
+blind to the deficiencies of its parents, no matter how much it may
+love them.
+
+Yet, somehow, this educational system has not been so successful as
+it deserved.  In many cases, no doubt, the material with which the
+children had to deal was crude and incapable of real development;
+but the fact remains that the American mother is a tedious person.
+The American father is better, for he is never seen in London.  He
+passes his life entirely in Wall Street and communicates with his
+family once a month by means of a telegram in cipher.  The mother,
+however, is always with us, and, lacking the quick imitative
+faculty of the younger generation, remains uninteresting and
+provincial to the last.  In spite of her, however, the American
+girl is always welcome.  She brightens our dull dinner parties for
+us and makes life go pleasantly by for a season.  In the race for
+coronets she often carries off the prize; but, once she has gained
+the victory, she is generous and forgives her English rivals
+everything, even their beauty.
+
+Warned by the example of her mother that American women do not grow
+old gracefully, she tries not to grow old at all and often
+succeeds.  She has exquisite feet and hands, is always bien
+chaussee et bien gantee and can talk brilliantly upon any subject,
+provided that she knows nothing about it.
+
+Her sense of humour keeps her from the tragedy of a grande passion,
+and, as there is neither romance nor humility in her love, she
+makes an excellent wife.  What her ultimate influence on English
+life will be it is difficult to estimate at present; but there can
+be no doubt that, of all the factors that have contributed to the
+social revolution of London, there are few more important, and none
+more delightful, than the American Invasion.
+
+
+
+SERMONS IN STONES AT BLOOMSBURY
+THE NEW SCULPTURE ROOM AT THE BRITISH MUSEUM
+
+
+
+Through the exertions of Sir Charles Newton, to whom every student
+of classic art should be grateful, some of the wonderful treasures
+so long immured in the grimy vaults of the British Museum have at
+last been brought to light, and the new Sculpture Room now opened
+to the public will amply repay the trouble of a visit, even from
+those to whom art is a stumbling-block and a rock of offence.  For
+setting aside the mere beauty of form, outline and mass, the grace
+and loveliness of design and the delicacy of technical treatment,
+here we have shown to us what the Greeks and Romans thought about
+death; and the philosopher, the preacher, the practical man of the
+world, and even the Philistine himself, cannot fail to be touched
+by these "sermons in stones," with their deep significance, their
+fertile suggestion, their plain humanity.  Common tombstones they
+are, most of them, the work not of famous artists but of simple
+handicraftsmen, only they were wrought in days when every
+handicraft was an art.  The finest specimens, from the purely
+artistic point of view, are undoubtedly the two stelai found at
+Athens.  They are both the tombstones of young Greek athletes.  In
+one the athlete is represented handing his strigil to his slave, in
+the other the athlete stands alone, strigil in hand.  They do not
+belong to the greatest period of Greek art, they have not the grand
+style of the Phidian age, but they are beautiful for all that, and
+it is impossible not to be fascinated by their exquisite grace and
+by the treatment which is so simple in its means, so subtle in its
+effect.  All the tombstones, however, are full of interest.  Here
+is one of two ladies of Smyrna who were so remarkable in their day
+that the city voted them honorary crowns; here is a Greek doctor
+examining a little boy who is suffering from indigestion; here is
+the memorial of Xanthippus who, probably, was a martyr to gout, as
+he is holding in his hand the model of a foot, intended, no doubt,
+as a votive offering to some god.  A lovely stele from Rhodes gives
+us a family group.  The husband is on horseback and is bidding
+farewell to his wife, who seems as if she would follow him but is
+being held back by a little child.  The pathos of parting from
+those we love is the central motive of Greek funeral art.  It is
+repeated in every possible form, and each mute marble stone seems
+to murmur [Greek text].  Roman art is different.  It introduces
+vigorous and realistic portraiture and deals with pure family life
+far more frequently than Greek art does.  They are very ugly, those
+stern-looking Roman men and women whose portraits are exhibited on
+their tombs, but they seem to have been loved and respected by
+their children and their servants.  Here is the monument of
+Aphrodisius and Atilia, a Roman gentleman and his wife, who died in
+Britain many centuries ago, and whose tombstone was found in the
+Thames; and close by it stands a stele from Rome with the busts of
+an old married couple who are certainly marvellously ill-favoured.
+The contrast between the abstract Greek treatment of the idea of
+death and the Roman concrete realization of the individuals who
+have died is extremely curious.
+
+Besides the tombstones, the new Sculpture Room contains some most
+fascinating examples of Roman decorative art under the Emperors.
+The most wonderful of all, and this alone is worth a trip to
+Bloomsbury, is a bas-relief representing a marriage scene, Juno
+Pronuba is joining the hands of a handsome young noble and a very
+stately lady.  There is all the grace of Perugino in this marble,
+all the grace of Raphael even.  The date of it is uncertain, but
+the particular cut of the bridegroom's beard seems to point to the
+time of the Emperor Hadrian.  It is clearly the work of Greek
+artists and is one of the most beautiful bas-reliefs in the whole
+Museum.  There is something in it which reminds one of the music
+and the sweetness of Propertian verse.  Then we have delightful
+friezes of children.  One representing children playing on musical
+instruments might have suggested much of the plastic art of
+Florence.  Indeed, as we view these marbles it is not difficult to
+see whence the Renaissance sprang and to what we owe the various
+forms of Renaissance art.  The frieze of the Muses, each of whom
+wears in her hair a feather plucked from the wings of the
+vanquished sirens, is extremely fine; there is a lovely little bas-
+relief of two cupids racing in chariots; and the frieze of
+recumbent Amazons has some splendid qualities of design.  A frieze
+of children playing with the armour of the god Mars should also be
+mentioned.  It is full of fancy and delicate humour.
+
+ We hope that some more of the hidden treasures will shortly be
+catalogued and shown.  In the vaults at present there is a very
+remarkable bas-relief of the marriage of Cupid and Psyche, and
+another representing the professional mourners weeping over the
+body of the dead.  The fine cast of the Lion of Chaeronea should
+also be brought up, and so should the stele with the marvellous
+portrait of the Roman slave.  Economy is an excellent public
+virtue, but the parsimony that allows valuable works of art to
+remain in the grim and gloom of a damp cellar is little short of a
+detestable public vice.
+
+
+
+L'ENVOI
+
+
+
+Amongst the many young men in England who are seeking along with me
+to continue and to perfect the English Renaissance--jeunes
+guerriers du drapeau romantique, as Gautier would have called us--
+there is none whose love of art is more flawless and fervent, whose
+artistic sense of beauty is more subtle and more delicate--none,
+indeed, who is dearer to myself--than the young poet whose verses I
+have brought with me to America; verses full of sweet sadness, and
+yet full of joy; for the most joyous poet is not he who sows the
+desolate highways of this world with the barren seed of laughter,
+but he who makes his sorrow most musical, this indeed being the
+meaning of joy in art--that incommunicable element of artistic
+delight which, in poetry, for instance, comes from what Keats
+called "sensuous life of verse," the element of song in the
+singing, made so pleasurable to us by that wonder of motion which
+often has its origin in mere musical impulse, and in painting is to
+be sought for, from the subject never, but from the pictorial charm
+only--the scheme and symphony of the colour, the satisfying beauty
+of the design:  so that the ultimate expression of our artistic
+movement in painting has been, not in the spiritual vision of the
+Pre-Raphaelites, for all their marvel of Greek legend and their
+mystery of Italian song, but in the work of such men as Whistler
+and Albert Moore, who have raised design and colour to the ideal
+level of poetry and music.  For the quality of their exquisite
+painting comes from the mere inventive and creative handling of
+line and colour, from a certain form and choice of beautiful
+workmanship, which, rejecting all literary reminiscence and all
+metaphysical idea, is in itself entirely satisfying to the
+aesthetic sense--is, as the Greeks would say, an end in itself; the
+effect of their work being like the effect given to us by music;
+for music is the art in which form and matter are always one--the
+art whose subject cannot be separated from the method of its
+expression; the art which most completely realizes for us the
+artistic ideal, and is the condition to which all the other arts
+are constantly aspiring.
+
+Now, this increased sense of the absolutely satisfying value of
+beautiful workmanship, this recognition of the primary importance
+of the sensuous element in art, this love of art for art's sake, is
+the point in which we of the younger school have made a departure
+from the teaching of Mr. Ruskin,--a departure definite and
+different and decisive.
+
+Master indeed of the knowledge of all noble living and of the
+wisdom of all spiritual things will he be to us ever, seeing that
+it was he who by the magic of his presence and the music of his
+lips taught us at Oxford that enthusiasm for beauty which is the
+secret of Hellenism, and that desire for creation which is the
+secret of life, and filled some of us, at least, with the lofty and
+passionate ambition to go forth into far and fair lands with some
+message for the nations and some mission for the world, and yet in
+his art criticism, his estimate of the joyous element of art, his
+whole method of approaching art, we are no longer with him; for the
+keystone to his aesthetic system is ethical always.  He would judge
+of a picture by the amount of noble moral ideas it expresses; but
+to us the channels by which all noble work in painting can touch,
+and does touch, the soul are not those of truths of life or
+metaphysical truths.  To him perfection of workmanship seems but
+the symbol of pride, and incompleteness of technical resource the
+image of an imagination too limitless to find within the limits of
+form its complete expression, or of love too simple not to stammer
+in its tale.  But to us the rule of art is not the rule of morals.
+In an ethical system, indeed, of any gentle mercy good intentions
+will, one is fain to fancy, have their recognition; but of those
+that would enter the serene House of Beauty the question that we
+ask is not what they had ever meant to do, but what they have done.
+Their pathetic intentions are of no value to us, but their realized
+creations only.  Pour moi je prefere les poetes qui font des vers,
+les medecins qui sachent guerir, les peintres qui sanchent peindre.
+
+Nor, in looking at a work of art, should we be dreaming of what it
+symbolises, but rather loving it for what it is.  Indeed, the
+transcendental spirit is alien to the spirit of art.  The
+metaphysical mind of Asia may create for itself the monstrous and
+many-breasted idol, but to the Greek, pure artist, that work is
+most instinct with spiritual life which conforms most closely to
+the perfect facts of physical life also.  Nor, in its primary
+aspect, has a painting, for instance, any more spiritual message or
+meaning for us than a blue tile from the wall of Damascus, or a
+Hitzen vase.  It is a beautifully coloured surface, nothing more,
+and affects us by no suggestion stolen from philosophy, no pathos
+pilfered from literature, no feeling filched from a poet, but by
+its own incommunicable artistic essence--by that selection of truth
+which we call style, and that relation of values which is the
+draughtsmanship of painting, by the whole quality of the
+workmanship, the arabesque of the design, the splendour of the
+colour, for these things are enough to stir the most divine and
+remote of the chords which make music in our soul, and colour,
+indeed, is of itself a mystical presence on things, and tone a kind
+of sentiment . . . all these poems aim, as I said, at producing a
+purely artistic effect, and have the rare and exquisite quality
+that belongs to work of that kind; and I feel that the entire
+subordination in our aesthetic movement of all merely emotional and
+intellectual motives to the vital informing poetic principle is the
+surest sign of our strength.
+
+But it is not enough that a work of art should conform to the
+aesthetic demands of the age:  there should be also about it, if it
+is to give us any permanent delight, the impress of a distinct
+individuality.  Whatever work we have in the nineteenth century
+must rest on the two poles of personality and perfection.  And so
+in this little volume, by separating the earlier and more simple
+work from the work that is later and stronger and possesses
+increased technical power and more artistic vision, one might weave
+these disconnected poems, these stray and scattered threads, into
+one fiery-coloured strand of life, noting first a boy's mere
+gladness of being young, with all its simple joy in field and
+flower, in sunlight and in song, and then the bitterness of sudden
+sorrow at the ending by Death of one of the brief and beautiful
+friendships of one's youth, with all those unanswered lodgings and
+questionings unsatisfied by which we vex, so uselessly, the marble
+face of death; the artistic contrast between the discontented
+incompleteness of the spirit and the complete perfection of the
+style that expresses it forming the chief element of the aesthetic
+charm of these particular poems;--and then the birth of Love, and
+all the wonder and the fear and the perilous delight of one on
+whose boyish brows the little wings of love have beaten for the
+first time; and the love-songs, so dainty and delicate, little
+swallow-flights of music, and full of such fragrance and freedom
+that they might all be sung in the open air and across moving
+water; and then autumn, coming with its choirless woods and odorous
+decay and ruined loveliness, Love lying dead; and the sense of the
+mere pity of it.
+
+One might stop there, for from a young poet one should ask for no
+deeper chords of life than those that love and friendship make
+eternal for us; and the best poems in the volume belong clearly to
+a later time, a time when these real experiences become absorbed
+and gathered up into a form which seems from such real experiences
+to be the most alien and the most remote; when the simple
+expression of joy or sorrow suffices no longer, and lives rather in
+the stateliness of the cadenced metre, in the music and colour of
+the linked words, than in any direct utterance; lives, one might
+say, in the perfection of the form more than in the pathos of the
+feeling.  And yet, after the broken music of love and the burial of
+love in the autumn woods, we can trace that wandering among strange
+people, and in lands unknown to us, by which we try so pathetically
+to heal the hurts of the life we know, and that pure and passionate
+devotion to Art which one gets when the harsh reality of life has
+too suddenly wounded one, and is with discontent or sorrow marring
+one's youth, just as often, I think, as one gets it from any
+natural joy of living; and that curious intensity of vision by
+which, in moments of overmastering sadness and despair
+ungovernable, artistic things will live in one's memory with a
+vivid realism caught from the life which they help one to forget--
+an old grey tomb in Flanders with a strange legend on it, making
+one think how, perhaps, passion does live on after death; a
+necklace of blue and amber beads and a broken mirror found in a
+girl's grave at Rome, a marble image of a boy habited like Eros,
+and with the pathetic tradition of a great king's sorrow lingering
+about it like a purple shadow,--over all these the tired spirit
+broods with that calm and certain joy that one gets when one has
+found something that the ages never dull and the world cannot harm;
+and with it comes that desire of Greek things which is often an
+artistic method of expressing one's desire for perfection; and that
+longing for the old dead days which is so modern, so incomplete, so
+touching, being, in a way, the inverted torch of Hope, which burns
+the hand it should guide; and for many things a little sadness, and
+for all things a great love; and lastly, in the pinewood by the
+sea, once more the quick and vital pulse of joyous youth leaping
+and laughing in every line, the frank and fearless freedom of wave
+and wind waking into fire life's burnt-out ashes and into song the
+silent lips of pain,--how clearly one seems to see it all, the long
+colonnade of pines with sea and sky peeping in here and there like
+a flitting of silver; the open place in the green, deep heart of
+the wood with the little moss-grown altar to the old Italian god in
+it; and the flowers all about, cyclamen in the shadowy places, and
+the stars of the white narcissus lying like snow-flakes over the
+grass, where the quick, bright-eyed lizard starts by the stone, and
+the snake lies coiled lazily in the sun on the hot sand, and
+overhead the gossamer floats from the branches like thin, tremulous
+threads of gold,--the scene is so perfect for its motive, for
+surely here, if anywhere, the real gladness of life might be
+revealed to one's youth--the gladness that comes, not from the
+rejection, but from the absorption, of all passion, and is like
+that serene calm that dwells in the faces of the Greek statues, and
+which despair and sorrow cannot touch, but intensify only.
+
+In some such way as this we could gather up these strewn and
+scattered petals of song into one perfect rose of life, and yet,
+perhaps, in so doing, we might be missing the true quality of the
+poems; one's real life is so often the life that one does not lead;
+and beautiful poems, like threads of beautiful silks, may be woven
+into many patterns and to suit many designs, all wonderful and all
+different:  and romantic poetry, too, is essentially the poetry of
+impressions, being like that latest school of painting, the school
+of Whistler and Albert Moore, in its choice of situation as opposed
+to subject; in its dealing with the exceptions rather than with the
+types of life; in its brief intensity; in what one might call its
+fiery-coloured momentariness, it being indeed the momentary
+situations of life, the momentary aspects of nature, which poetry
+and painting new seek to render for us.  Sincerity and constancy
+will the artist, indeed, have always; but sincerity in art is
+merely that plastic perfection of execution without which a poem or
+a painting, however noble its sentiment or human its origin, is but
+wasted and unreal work, and the constancy of the artist cannot be
+to any definite rule or system of living, but to that principle of
+beauty only through which the inconstant shadows of his life are in
+their most fleeting moment arrested and made permanent.  He will
+not, for instance, in intellectual matters acquiesce in that facile
+orthodoxy of our day which is so reasonable and so artistically
+uninteresting, nor yet will he desire that fiery faith of the
+antique time which, while it intensified, yet limited the vision;
+still less will he allow the calm of his culture to be marred by
+the discordant despair of doubt or the sadness of a sterile
+scepticism; for the Valley Perilous, where ignorant armies clash by
+night, is no resting-place meet for her to whom the gods have
+assigned the clear upland, the serene height, and the sunlit air,--
+rather will he be always curiously testing new forms of belief,
+tinging his nature with the sentiment that still lingers about some
+beautiful creeds, and searching for experience itself, and not for
+the fruits of experience; when he has got its secret, he will leave
+without regret much that was once very precious to him.  "I am
+always insincere," says Emerson somewhere, "as knowing that there
+are other moods":  "Les emotions," wrote Theophile Gautier once in
+a review of Arsene Houssaye, "Les emotions, ne se ressemblent pas,
+mais etre emu--voila l'important."
+
+Now, this is the secret of the art of the modern romantic school,
+and gives one the right keynote for its apprehension; but the real
+quality of all work which, like Mr. Rodd's, aims, as I said, at a
+purely artistic effect, cannot be described in terms of
+intellectual criticism; it is too intangible for that.  One can
+perhaps convey it best in terms of the other arts, and by reference
+to them; and, indeed, some of these poems are as iridescent and as
+exquisite as a lovely fragment of Venetian glass; others as
+delicate in perfect workmanship and as single in natural motive as
+an etching by Whistler is, or one of those beautiful little Greek
+figures which in the olive woods round Tanagra men can still find,
+with the faint gilding and the fading crimson not yet fled from
+hair and lips and raiment; and many of them seem like one of
+Corot's twilights just passing into music; for not merely in
+visible colour, but in sentiment also--which is the colour of
+poetry--may there be a kind of tone.
+
+But I think that the best likeness to the quality of this young
+poet's work I ever saw was in the landscape by the Loire.  We were
+staying once, he and I, at Amboise, that little village with its
+grey slate roofs and steep streets and gaunt, grim gateway, where
+the quiet cottages nestle like white pigeons into the sombre clefts
+of the great bastioned rock, and the stately Renaissance houses
+stand silent and apart--very desolate now, but with some memory of
+the old days still lingering about the delicately-twisted pillars,
+and the carved doorways, with their grotesque animals, and laughing
+masks, and quaint heraldic devices, all reminding one of a people
+who could not think life real till they had made it fantastic.  And
+above the village, and beyond the bend of the river, we used to go
+in the afternoon, and sketch from one of the big barges that bring
+the wine in autumn and the wood in winter down to the sea, or lie
+in the long grass and make plans pour la gloire, et pour ennuyer
+les Philistins, or wander along the low, sedgy banks, "matching our
+reeds in sportive rivalry," as comrades used in the old Sicilian
+days; and the land was an ordinary land enough, and bare, too, when
+one thought of Italy, and how the oleanders were robing the
+hillsides by Genoa in scarlet, and the cyclamen filling with its
+purple every valley from Florence to Rome; for there was not much
+real beauty, perhaps, in it, only long, white dusty roads and
+straight rows of formal poplars; but, now and then, some little
+breaking gleam of broken light would lend to the grey field and the
+silent barn a secret and a mystery that were hardly their own,
+would transfigure for one exquisite moment the peasants passing
+down through the vineyard, or the shepherd watching on the hill,
+would tip the willows with silver and touch the river into gold;
+and the wonder of the effect, with the strange simplicity of the
+material, always seemed to me to be a little like the quality of
+these the verses of my friend.
+
+
+
+
+
+End of Project Gutenberg's Etext of Shorter Prose Pieces by Oscar Wilde
