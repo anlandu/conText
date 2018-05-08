@@ -33,12 +33,12 @@ class AuthID:
             else:
                 print("CSV does not exist")
                 all_data={}
-                for path, subdirs, files in os.walk("../resources/"):
+                for path, subdirs, files in os.walk("../resources"):
                     for name in files:
-                        book_data=self.getStats("resources/{}".format(os.path.join(path, name)))
+                        book_data=self.getStats(os.path.join(path, name))
                         all_data.update(book_data)
-                fields=['book', 'chars', 'words', 'sentences', 'pauses', 'function words', 'content words', 'NN', 'IN', 'PRP', 'DT', 'NNP', 'RB', 'VBD', 'JJ', 'VB', 'CC']
-                with open('../book_stats.csv', 'w+', encoding="utf-8", errors="ignore") as csv_file:
+                fields=['book', 'author', 'chars', 'words', 'sentences', 'pauses', 'unique words', 'function words', 'content words', 'NN', 'IN', 'PRP', 'DT', 'NNP', 'RB', 'VBD', 'JJ', 'VB', 'CC']
+                with open('../book_stats.csv', 'w+', encoding="utf-8", newline="", errors="ignore") as csv_file:
                     writer = csv.writer(csv_file)
                     wdict=csv.DictWriter(csv_file,fields,extrasaction='ignore')
                     writer.writerow(fields)
@@ -49,7 +49,7 @@ class AuthID:
                 return all_data
 
     def getStats(self, filename):
-        with open("../{}".format(filename), 'r', encoding='utf-8', errors="ignore") as f:
+        with open(filename, 'r', encoding='utf-8', errors="ignore") as f:
             book_text=f.read()
             book_title=book_text[:book_text.index("~~~")]
             try:
@@ -65,39 +65,38 @@ class AuthID:
                 except:
                     print(filename)
                     end=len(book_text)
+            author=filename[filename.index("resources\\")+10:filename.rfind("\\")]
             book_text=book_text[start+4:end]
             punctuation=string.punctuation+")’(,�--|"
             stopset=set(stopwords.words('english'))
             pauses=",;--—:"
             sents=sent_tokenize(book_text)
             words=word_tokenize(book_text)
+            unique_words=set(words)
             num_sents=len(sents)
             num_words=0
             num_function_words=0
             num_stopwords=0
             num_chars=0
             num_pauses=0
+            num_unique_words=len(unique_words)
             diff_words,diff_pos=zip(*pos_tag(words))
             all_nums=Counter(diff_pos)
-            for sentence in sents:
-                words=word_tokenize(sentence)
-                for word in words:
-                    if word in pauses:
-                        num_pauses+=1
-                    elif word in punctuation:
-                        pass
+            for word in words:
+                if word in pauses:
+                    num_pauses+=1
+                elif word in punctuation:
+                    pass
+                else:
+                    num_words+=1.0
+                    num_chars+=len(word)
+                    if word in stopset:
+                        num_stopwords+=1
                     else:
-                        num_words+=1.0
-                        num_chars+=len(word)
-                        if word in stopset:
-                            num_stopwords+=1
-                        else:
-                            num_function_words+=1
-            all_nums.update({"words": num_words})
-            all_nums.update({"sentences": num_sents})
-            all_nums.update({"pauses": num_pauses})
-            all_nums.update({"function words": num_function_words})
-            all_nums.update({"content words": num_stopwords})
-            all_nums.update({"chars": num_chars})
+                        num_function_words+=1
+            all_nums.update({"words": num_words, "sentences": num_sents,
+                "pauses": num_pauses, "function words": num_function_words,
+                "content words": num_stopwords, "chars": num_chars,
+                "unique words": num_unique_words, "author": author})
             print({book_title:all_nums})
             return {book_title:all_nums}
